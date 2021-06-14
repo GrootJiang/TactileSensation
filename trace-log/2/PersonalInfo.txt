@@ -1,0 +1,15 @@
+Age: 24
+Gender: Female
+Height: 164
+Weight: 51
+BMI: 18.96
+Wrist circumference of Right Arm: 13.7
+Elbow circumference of Right Arm: 21.3
+Wrist circumference of Left Arm: 13.4
+Elbow circumference of Left Arm: 21.1
+wrist strength of Right Hand: 103
+wrist strength of Left Hand: 77
+Blood Pressure when E1: 110/62
+Heartbeat when E1: 66
+Blood Pressure when E2: 101/60
+Heartbeat when E2: 62

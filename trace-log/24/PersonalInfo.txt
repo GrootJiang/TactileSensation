@@ -1,0 +1,15 @@
+Age: 25
+Gender: Male
+Height: 175
+Weight: 73
+BMI: 23.84
+Wrist circumference of Right Arm: 15.6
+Elbow circumference of Right Arm: 25.4
+Wrist circumference of Left Arm: 15.9
+Elbow circumference of Left Arm: 25.0
+wrist strength of Right Hand: 143
+wrist strength of Left Hand: 131
+Blood Pressure when E1: 101/53
+Heartbeat when E1: 58
+Blood Pressure when E2: 100/53
+Heartbeat when E2: 55

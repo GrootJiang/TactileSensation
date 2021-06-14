@@ -1,0 +1,15 @@
+Age: 28
+Gender: Male 
+Height: 183
+Weight: 70
+BMI: 20.9
+Wrist circumference of Right Arm:
+Elbow circumference of Right Arm:
+Wrist circumference of Left Arm:
+Elbow circumference of Left Arm:
+wrist strength of Right Hand:
+wrist strength of Left Hand:
+Blood Pressure when E1: 119/63
+Heartbeat when E1: 68
+Blood Pressure when E2: 116/65
+Heartbeat when E2: 73
